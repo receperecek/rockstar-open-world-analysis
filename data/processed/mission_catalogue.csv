@@ -1,0 +1,23 @@
+game_id,mission_id,mission_title,mission_status,primary_mechanic,secondary_mechanic_tags,setting_or_region,source_ids,confidence,short_coding_rationale
+gta_san_andreas,sa_01,Welcome to Los Santos,required,driving,narrative; urban traversal,Los Santos,wikipedia_sa_tile,medium,Early mission establishes driving and urban orientation within the state map.
+gta_san_andreas,sa_02,Black project,required,combat,shooting; story,Los Santos,wikipedia_sa_tile,medium,Action-focused mandatory mission with direct combat sequencing.
+gta_san_andreas,sa_03,Run Little Brother Run,required,pursuit/escape,vehicle chase; police,Los Santos,wikipedia_sa_tile,medium,Classic pursuit and escape design under the main story arc.
+gta_san_andreas,sa_04,Home Invasion,required,combat,shooting; narrative,Los Santos,wikipedia_sa_tile,medium,Narrative-anchored combat mission reflecting the game’s crime-story focus.
+gta_san_andreas,sa_05,Just Business,required,driving,delivery; mission,San Fierro,wikipedia_sa_tile,medium,Incorporates the larger state map and driving-heavy progression.
+gta_san_andreas,sa_06,Monster,required,combat,shooting; lore,San Fierro,wikipedia_sa_tile,medium,A mandatory action mission typical of the broader SA mission mix.
+gta_san_andreas,sa_07,Tank Command,required,combat,heavy vehicle; military,Las Venturas,wikipedia_sa_tile,medium,Illustrates the broader state map and varied combat/vehicle content.
+gta_san_andreas,sa_08,The Green Sabre,branching/alternative,combat,story; gang conflict,Los Santos,wikipedia_sa_tile,medium,Branching story content shows the game’s multiple path structure.
+gta_iv,gta4_01,The Cousins Bellic,required,driving,story; urban driving,Broker,wikipedia_gtaiv_tile; ign_gtaiv_pc_review,medium,"Introduces Liberty City and the grounded, story-led mission structure."
+gta_iv,gta4_02,Three Leaf Clover,required,combat,shooting; mission,Broker,wikipedia_gtaiv_tile,medium,"Shows the more grounded, cover-heavy action emphasis of GTA IV."
+gta_iv,gta4_03,Bleed Out,required,combat,shooting; survival,Broker,wikipedia_gtaiv_tile,medium,A canonical mission demonstrating GTA IV’s emphasis on realistic combat and pressure.
+gta_iv,gta4_04,The Friend in Need,required,driving,story; mission,Broker,wikipedia_gtaiv_tile,medium,Illustrates the city’s dense mission flow and narrative continuity.
+gta_iv,gta4_05,Roman’s Sorrow,required,pursuit/escape,chase; narrative,Broker,wikipedia_gtaiv_tile,medium,"A chase-heavy mission in the grounded, urban mission design norm."
+gta_iv,gta4_06,Grand Theft Auto,required,driving,urban; accuracy,Liberty City,wikipedia_gtaiv_tile,medium,Classic driving-based mission emblematic of city-traversal emphasis.
+gta_iv,gta4_07,A Revenger’s Tragedy,required,combat,story; cover,Dukes,wikipedia_gtaiv_tile,medium,Shows the cover-based combat and narrative weight that distinguish the game.
+gta_iv,gta4_08,The Hunt,required,pursuit/escape,chase; firearm,Liberty City,wikipedia_gtaiv_tile,medium,A good example of GTA IV’s broader pursuit and escape loop.
+crackdown,cd_01,The Agency reset,required,combat,sandbox; progression,Pacific City,wikipedia_crackdown,medium,Crackdown’s open sandbox progression focuses on powers and gang hierarchy rather than a strict narrative mission line.
+crackdown,cd_02,Gang war escalation,required,combat,city control; tactical combat,Pacific City,wikipedia_crackdown,medium,Methodical elimination of bosses and gang structures is central to the design frame.
+crackdown,cd_03,Rooftop race challenge,optional,traversal/platforming,agility; speedrun,Pacific City,wikipedia_crackdown,medium,A side challenge representing the parkour and vertical traversal emphasis.
+assassins_creed,ac_01,The Prodigal,required,stealth,assassination; city navigation,Jerusalem,wikipedia_assassins_creed,medium,"The opening structure emphasizes stealth and climbing in a structured, city-based mission setting."
+assassins_creed,ac_02,The Assassin,required,stealth,assassination; social stealth,Jerusalem,wikipedia_assassins_creed,medium,The game’s signature stealth/assassination system is explicit here.
+assassins_creed,ac_03,The Last Crusade,required,traversal/platforming,parkour; climbing,Acre,wikipedia_assassins_creed,medium,City traversal and climbing are central to the gameplay loop.

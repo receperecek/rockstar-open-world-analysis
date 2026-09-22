@@ -1,0 +1,13 @@
+game_id,activity_type,activity_count,source_ids,notes
+gta_san_andreas,street races,12,wikipedia_sa_tile,Race and driving content remains a major side layer.
+gta_san_andreas,gym / fitness / stats,5,wikipedia_sa_tile,Character progression and physical training were strongly emphasized.
+gta_san_andreas,side jobs and property management,7,wikipedia_sa_tile,Large state map supports multiple recurring activities.
+gta_iv,friend activities and dates,8,ign_gtaiv_pc_review,The game provides dense social simulation and optional acquaintances.
+gta_iv,street activities,6,ign_gtaiv_pc_review,Even optional content is integrated into the city and social life layer.
+gta_iv,darts / pool / bowling / club activities,7,ign_gtaiv_pc_review,"Activities map to the grounded, living-city tone of the title."
+crackdown,rooftop race,5,wikipedia_crackdown,Rooftop racing is central to the movement fantasy.
+crackdown,vehicle race,4,wikipedia_crackdown,Driving skill progression is a selectable feature.
+crackdown,collectible and power ups,18,wikipedia_crackdown,The game rewards experimentation and vertical traversal.
+assassins_creed,crowd blending and stealth patrol,9,wikipedia_assassins_creed,The stealth-focused city design revolves around observation and movement.
+assassins_creed,city exploration / viewpoint climbing,10,wikipedia_assassins_creed,The game strongly foregrounds movement through the city rather than low-level combat abundance.
+assassins_creed,social stealth and target templating,6,wikipedia_assassins_creed,Systems are oriented around infiltration and position rather than broad sandbox chaos.
